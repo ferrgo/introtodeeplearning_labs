@@ -1,0 +1,8 @@
+md5: 9e28bf086a3f346ac7bc41f78014a889
+outs:
+- cache: true
+  md5: 81503b115d5084652c881381aff845f2
+  metric: false
+  path: lab2/img/samples.png
+  persist: false
+wdir: ../..

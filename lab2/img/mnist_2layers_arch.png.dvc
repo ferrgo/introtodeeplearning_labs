@@ -1,0 +1,8 @@
+md5: 4e857cc0d5b5623bc18f447ccb4ce653
+outs:
+- cache: true
+  md5: d0afb5cdf092f6d6c02a9a94238603ab
+  metric: false
+  path: lab2/img/mnist_2layers_arch.png
+  persist: false
+wdir: ../..

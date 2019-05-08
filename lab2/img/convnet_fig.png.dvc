@@ -1,0 +1,8 @@
+md5: 5a71009c6c970510e66876cc9784fd33
+outs:
+- cache: true
+  md5: 5e75692528d337d47a4218718d301f49
+  metric: false
+  path: lab2/img/convnet_fig.png
+  persist: false
+wdir: ../..

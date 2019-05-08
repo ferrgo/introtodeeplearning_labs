@@ -1,0 +1,8 @@
+md5: 3fae4f05f12f76d9de4bce1a0ea68dea
+outs:
+- cache: true
+  md5: 76cb8bd6389e7cac1b8640c661ef31f5
+  metric: false
+  path: lab1/img/lstm_unrolled-01.png
+  persist: false
+wdir: ../..

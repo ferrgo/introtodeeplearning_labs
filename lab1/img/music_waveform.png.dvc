@@ -1,0 +1,8 @@
+md5: ff214f764edb68bccb2a34cc65e6d2f9
+outs:
+- cache: true
+  md5: 9594fe6977b8b35428ade06eb00547fa
+  metric: false
+  path: lab1/img/music_waveform.png
+  persist: false
+wdir: ../..

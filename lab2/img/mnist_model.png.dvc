@@ -1,0 +1,8 @@
+md5: f3c761a64c38d6baab5b103efacff032
+outs:
+- cache: true
+  md5: 28ebf1c6cbe46ba03e8eb7c903112b12
+  metric: false
+  path: lab2/img/mnist_model.png
+  persist: false
+wdir: ../..

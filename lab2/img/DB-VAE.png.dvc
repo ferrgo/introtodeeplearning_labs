@@ -1,0 +1,8 @@
+md5: 2c21b90cac0f8f25ab5ce5a905c73b55
+outs:
+- cache: true
+  md5: c4a4e9af28712de9bb4a39686b087531
+  metric: false
+  path: lab2/img/DB-VAE.png
+  persist: false
+wdir: ../..

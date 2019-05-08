@@ -1,0 +1,8 @@
+md5: 2731e718a632b15d91887cffc66c1f11
+outs:
+- cache: true
+  md5: c989691611b3e93d1109191d630295a4
+  metric: false
+  path: lab2/img/PPB faces.png
+  persist: false
+wdir: ../..

@@ -1,0 +1,8 @@
+md5: 5c3abaefa6d0b07bf8c6868d23ac7ae5
+outs:
+- cache: true
+  md5: f2c178040df405679410734ee57b1593
+  metric: false
+  path: lab1/data/irish.abc
+  persist: false
+wdir: ../..

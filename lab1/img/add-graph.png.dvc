@@ -1,0 +1,8 @@
+md5: a32f8d76303624352b11560f261c5533
+outs:
+- cache: true
+  md5: 30645d7389fbf15d0303cac75eabc403
+  metric: false
+  path: lab1/img/add-graph.png
+  persist: false
+wdir: ../..

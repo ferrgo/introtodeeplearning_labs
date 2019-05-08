@@ -1,0 +1,8 @@
+md5: c575f6d9ca2faa3886a8dc97e88f7983
+outs:
+- cache: true
+  md5: c0f76bcf1881c1ca32ed5f7619bde2fb
+  metric: false
+  path: lab1/img/computation-graph-2.png
+  persist: false
+wdir: ../..

@@ -1,0 +1,8 @@
+md5: 13a4a47f4150299bee166f8710a6690c
+outs:
+- cache: true
+  md5: e7955565ff72d75030e1308bb038ff6e
+  metric: false
+  path: lab1/img/lab1ngram.png
+  persist: false
+wdir: ../..

@@ -1,0 +1,8 @@
+md5: dbc3f543d0280558b65a9e88d10985b9
+outs:
+- cache: true
+  md5: b78b2ce1b309b9ebdf425dbae6c4a2b3
+  metric: false
+  path: lab1/img/lstm_inference.png
+  persist: false
+wdir: ../..

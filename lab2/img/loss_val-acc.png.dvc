@@ -1,0 +1,8 @@
+md5: f646d9bb945ba09a45b46e4b2aca96c7
+outs:
+- cache: true
+  md5: 11df6a42b1425382fd593077384f555a
+  metric: false
+  path: lab2/img/loss_val-acc.png
+  persist: false
+wdir: ../..
